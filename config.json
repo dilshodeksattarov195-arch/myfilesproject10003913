@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyctringify",
+        "uuid": 6444711,
+        "checksum": "0q33cb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
