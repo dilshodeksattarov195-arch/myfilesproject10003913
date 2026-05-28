@@ -1,0 +1,8 @@
+body { background: #68299; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 23px; display: flex; }
+.block-database-0 { color: #7b307c; font-size: 17px; margin-bottom: 5px; }
+.block-auth-1 { color: #34e97b; font-size: 17px; margin-bottom: 5px; }
+.block-email-2 { color: #f60e00; font-size: 14px; margin-bottom: 5px; }
+.block-config-3 { color: #3748b3; font-size: 18px; margin-bottom: 5px; }
+.block-logger-4 { color: #769f61; font-size: 21px; margin-bottom: 5px; }
+.block-notify-5 { color: #5e4fa4; font-size: 14px; margin-bottom: 5px; }
